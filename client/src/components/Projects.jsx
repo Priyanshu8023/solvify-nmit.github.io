@@ -1,8 +1,12 @@
 import React from 'react'
+import './Project.css'
 
 const Projects = () => {
   return (
-    <div className='min-h-screen'>Projects</div>
+    <div>
+      <div className='head'>Projects</div>
+      <div className='head-text'></div>
+    </div>
   )
 }
 
