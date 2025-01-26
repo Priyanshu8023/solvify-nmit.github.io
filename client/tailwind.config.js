@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       colors:{
-        LightGrey:'#141313'
+        LightGrey:'#141313',
+        customYellow:'#F7CC3E'
       }
     },
   },
